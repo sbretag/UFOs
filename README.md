@@ -40,6 +40,8 @@ Filtering the UFO Sightings table on fl (for state) and sphere (for shape) retur
 
 ## Summary
 
+Overall the application allows the user to search for UFO sightings using multiple criteria however there is no input validation for the filters.  For example, one could enter in the date in the wrong format and not know.  I would recommend replacing the date input with a date selector simliar to what you see with most modern day applications.  I would also suggest the same type of validation for city, state, and country.  I would also suggest that we list out the shape options, a user may not know all of the available shapes to search for.  Finally, I would add a filter for duration.
+
 
 
 
