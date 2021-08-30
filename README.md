@@ -17,11 +17,9 @@ The purpose of this project is to update a previously created web app that filte
 - Data
   - [UFO Sightings Data](https://github.com/sbretag/UFOs/blob/main/Static/js/data.js)
 - Code
-  - [app javascript code](https://github.com/sbretag/UFOs/blob/main/Static/js/app.js)
-  - [app html code](https://github.com/sbretag/UFOs/blob/main/index.html)
-- Webapp Preview (Image)
-  - ![image](https://github.com/sbretag/UFOs/blob/main/Static/Images/ufo_sightings_webapp_preview.png)
-
+  - [App - JavaScript Code](https://github.com/sbretag/UFOs/blob/main/Static/js/app.js)
+  - [App - HTML Code](https://github.com/sbretag/UFOs/blob/main/index.html)
+- [Webapp Preview](https://github.com/sbretag/UFOs/blob/main/Static/Images/ufo_sightings_webapp_preview.png)
 
 ## Results
 
