@@ -25,13 +25,16 @@ The purpose of this project is to update a previously created web app that filte
 
 ### How to filter criteria
 
-Upon entering the webpage, the user may scroll down to the bottom of the page to find a table array displaying data concerning UFO sightings, including location, the shape of UFO, event duration, and sighting description. Using the search bar to the left of the page, the user may enter text into the search filter criteria text boxes, and press enter to look up sightings particular to their interest.
+1. Go to the filter and table section at the bottom
+2. Enter in one criteria for any or all of the five filters shown for date, city, state, country, and shape.  Then press enter.  Note the following.
+  - Date must be in m/d/yyyy format
+  - You must use the state and country abbreviations
+3. To clear filters, remove criteria and press enter, refresh browser, or click the UFO Sightings link at the top left hand of the site
 
-### Movies Query
-![image](https://github.com/sbretag/Movie_ETL/blob/main/Resources/movie_query.png)
+### Filter Example
 
-### Rankings Query
-![image](https://github.com/sbretag/Movie_ETL/blob/main/Resources/ratings_query.png)
+![image](https://github.com/sbretag/UFOs/blob/main/Static/Images/ufo_sighting_filtering_example.png)
+
 
 ## Summary
 
