@@ -23,6 +23,10 @@ The purpose of this project is to update a previously created web app that filte
 
 ## Results
 
+### How to filter criteria
+
+Upon entering the webpage, the user may scroll down to the bottom of the page to find a table array displaying data concerning UFO sightings, including location, the shape of UFO, event duration, and sighting description. Using the search bar to the left of the page, the user may enter text into the search filter criteria text boxes, and press enter to look up sightings particular to their interest.
+
 ### Movies Query
 ![image](https://github.com/sbretag/Movie_ETL/blob/main/Resources/movie_query.png)
 
