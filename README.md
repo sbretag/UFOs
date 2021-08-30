@@ -33,6 +33,8 @@ The purpose of this project is to update a previously created web app that filte
 
 ### Filter Example
 
+Filtering the UFO Sightings table on fl (for state) and sphere (for shape) returns the following after pressing enter.
+
 ![image](https://github.com/sbretag/UFOs/blob/main/Static/Images/ufo_sighting_filtering_example.png)
 
 
